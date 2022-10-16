@@ -1,0 +1,14 @@
+body{
+    background-color: greenyellow;
+}
+
+#Span1{
+    font-size: 50;
+    margin-right: 75%;
+}
+
+#Span2{
+    font-size: 50;
+    float:right;
+    margin-right: 40;
+}
